@@ -1,0 +1,77 @@
+Cliente;Data;Valor;Quantidade;Cidade;Produto
+Alysson Uchoa;07/02/2025;85.35;7;Fortaleza;Teclado
+Bruno Ferreira;14/03/2025;146.62;6;Maracanau;Headphone
+Bruno Ferreira;05/02/2025;354.83;8;Fortaleza;Placa de Video
+Carla Mendes;26/02/2025;238.6;4;Caucaia;Monitor
+Carla Mendes;09/01/2025;443.29;6;Maracanau;Teclado
+Carla Mendes;25/04/2025;323.78;5;Fortaleza;Headphone
+Carla Mendes;26/03/2025;129.2;7;Fortaleza;Memoria RAM
+Daniel Souza;05/02/2025;117.17;6;Fortaleza;SSD
+Daniel Souza;15/01/2025;471.95;8;Maracanau;SSD
+Daniel Souza;07/03/2025;171.94;1;Caucaia;Teclado
+Daniel Souza;25/04/2025;447.4;6;Caucaia;Fone de Ouvido
+Eduardo Lima;25/01/2025;429.39;10;Caucaia;Memoria RAM
+Fernanda Rocha;08/03/2025;440.49;10;Caucaia;Fone de Ouvido
+Gabriel Alves;02/03/2025;382.05;8;Caucaia;Headphone
+Gabriel Alves;12/04/2025;40.2;8;Fortaleza;Teclado
+Gabriel Alves;16/01/2025;135.67;10;Fortaleza;Gabinete
+Gabriel Alves;25/02/2025;134.86;6;Caucaia;Monitor
+Helena Martins;28/04/2025;53.62;6;Caucaia;Teclado
+Helena Martins;12/02/2025;443.02;8;Caucaia;Placa de Video
+Helena Martins;28/03/2025;387.8;2;Maracanau;Memoria RAM
+Helena Martins;04/01/2025;131.36;10;Maracanau;Gabinete
+Igor Barros;19/03/2025;334.62;1;Fortaleza;Monitor
+Juliana Costa;05/04/2025;98.76;3;Caucaia;Fone de Ouvido
+Juliana Costa;23/01/2025;463.16;7;Caucaia;Placa Mae
+Juliana Costa;18/03/2025;459.57;9;Fortaleza;Gabinete
+Juliana Costa;17/02/2025;421.27;6;Caucaia;Mouse
+Kaio Teixeira;19/03/2025;358.42;6;Maracanau;Mouse
+Kaio Teixeira;03/04/2025;344.63;4;Maracanau;Gabinete
+Kaio Teixeira;16/01/2025;68.86;5;Fortaleza;Fone de Ouvido
+Kaio Teixeira;07/02/2025;176.66;10;Fortaleza;SSD
+Larissa Gomes;11/02/2025;331.04;6;Caucaia;Gabinete
+Larissa Gomes;03/01/2025;227.01;1;Caucaia;Mouse
+Larissa Gomes;15/03/2025;164.18;9;Caucaia;Memoria RAM
+Larissa Gomes;05/04/2025;167.92;1;Maracanau;Teclado
+Marcos Vinicius;11/03/2025;281.89;6;Fortaleza;Placa de Video
+Marcos Vinicius;22/04/2025;14.54;4;Fortaleza;Monitor
+Marcos Vinicius;27/01/2025;46.78;5;Fortaleza;Monitor
+Marcos Vinicius;22/02/2025;347.42;1;Caucaia;SSD
+Natalia Ribeiro;05/04/2025;379.05;7;Maracanau;Monitor
+Natalia Ribeiro;08/02/2025;401.98;10;Caucaia;Placa de Video
+Natalia Ribeiro;24/01/2025;168.29;7;Caucaia;Gabinete
+Otavio Freitas;18/02/2025;339.28;2;Caucaia;Fone de Ouvido
+Otavio Freitas;28/01/2025;30.52;5;Fortaleza;Placa de Video
+Otavio Freitas;11/03/2025;246.3;1;Maracanau;Headphone
+Otavio Freitas;08/04/2025;478.34;6;Fortaleza;Placa Mae
+Patricia Nunes;16/02/2025;242.49;5;Caucaia;Memoria RAM
+Patricia Nunes;10/01/2025;456.76;5;Fortaleza;Placa de Video
+Patricia Nunes;03/03/2025;166.42;4;Caucaia;Headphone
+Rafael Correia;26/03/2025;430.13;9;Caucaia;Gabinete
+Sabrina Duarte;16/01/2025;301.73;4;Maracanau;SSD
+Sabrina Duarte;01/03/2025;358.21;4;Caucaia;Fone de Ouvido
+Sabrina Duarte;09/04/2025;27.4;8;Fortaleza;Mouse
+Sabrina Duarte;17/02/2025;54.45;3;Caucaia;Placa Mae
+Tiago Batista;22/03/2025;286.51;6;Maracanau;Placa de Video
+Ursula Farias;02/03/2025;227.13;4;Caucaia;Teclado
+Ursula Farias;15/04/2025;260.36;1;Fortaleza;Teclado
+Ursula Farias;02/02/2025;98.76;6;Fortaleza;Fone de Ouvido
+Ursula Farias;19/01/2025;360.7;9;Caucaia;Fone de Ouvido
+Victor Andrade;18/01/2025;302.42;8;Caucaia;Headphone
+Wesley Pacheco;03/03/2025;199.79;6;Maracanau;Placa Mae
+Wesley Pacheco;10/01/2025;115.43;3;Caucaia;Monitor
+Xavier Moura;06/04/2025;232.88;9;Fortaleza;Headphone
+Yasmin Araujo;12/03/2025;197.3;10;Maracanau;Mouse
+Yasmin Araujo;05/02/2025;402.35;10;Maracanau;SSD
+Yasmin Araujo;10/01/2025;239.49;2;Maracanau;Gabinete
+Yasmin Araujo;01/04/2025;200.24;10;Fortaleza;Placa de Video
+Zeca Monteiro;03/02/2025;252.17;5;Fortaleza;Gabinete
+Andre Cavalcante;20/01/2025;88.37;8;Fortaleza;Headphone
+Bianca Torres;13/02/2025;282.15;2;Maracanau;Gabinete
+Bianca Torres;17/04/2025;444.03;10;Caucaia;Placa de Video
+Bianca Torres;25/03/2025;281.3;4;Fortaleza;Headphone
+Caio Lopes;10/02/2025;175.55;6;Fortaleza;Mouse
+Debora Cardoso;25/01/2025;254.9;4;Fortaleza;Teclado
+Debora Cardoso;16/03/2025;224.12;9;Fortaleza;Placa Mae
+Debora Cardoso;09/04/2025;493.59;5;Fortaleza;SSD
+Erick Santana;04/01/2025;409.56;7;Fortaleza;Fone de Ouvido
